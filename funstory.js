@@ -5,4 +5,11 @@ let snack = prompt("Favorite snack:");
 let drink = prompt("Favorite drink:");
 let place = prompt("Summer place:");
 let activity = prompt("Fun activity:");
-
+let pet = prompt("Type of pet:");
+let petName = prompt("Pet's name:");
+let weather = prompt("Summer weather:");
+let object = prompt("Something they find:");
+let vehicle = prompt("Something they ride:");
+let music = prompt("Type of music:");
+let color = prompt("Favorite color:");
+let time = prompt("Time of day:");
