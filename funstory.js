@@ -36,7 +36,6 @@ name + " brought their " + pet +
 "Near the end of the day, they discovered a strange " +
 object + " hidden by the sidewalk. " +
 
-"They laughed and made up funny stories about where it came from. " +
 
 "As the sun began to set, " + name +
 ", " + friend +
