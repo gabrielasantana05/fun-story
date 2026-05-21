@@ -13,3 +13,18 @@ let vehicle = prompt("Something they ride:");
 let music = prompt("Type of music:");
 let color = prompt("Favorite color:");
 let time = prompt("Time of day:");
+
+let story =
+"It was a " + weather + " summer afternoon in " + town + ". " +
+
+"At around " + time + ", " + name +
+" met up with their friend " + friend +
+" at the " + place + ". " +
+
+name + " brought their " + pet +
+" named " + petName +
+", who followed them everywhere. " +
+
+"While listening to " + music +
+" music, they shared some " + snack +
+" and drank cold " + drink + ". " 
