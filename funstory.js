@@ -28,3 +28,19 @@ name + " brought their " + pet +
 "While listening to " + music +
 " music, they shared some " + snack +
 " and drank cold " + drink + ". " 
+
+"Later, they rode around on a " + color +
+" " + vehicle +
+" and spent hours doing " + activity + ". " +
+
+"Near the end of the day, they discovered a strange " +
+object + " hidden by the sidewalk. " +
+
+"They laughed and made up funny stories about where it came from. " +
+
+"As the sun began to set, " + name +
+", " + friend +
+", and " + petName +
+" walked home feeling happy and tired after a perfect summer afternoon.";
+
+alert(story);
